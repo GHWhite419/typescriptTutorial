@@ -8,3 +8,5 @@ let c: number = 2;
 console.log(a / b);
 
 console.log(c * b);
+
+enuym fdmfda;fjdak;fjda;klfd;akljfas
